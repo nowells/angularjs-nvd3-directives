@@ -36,6 +36,12 @@
   "bugs": {
     "url": "https://github.com/cmaurer/angularjs-nvd3-directives/issues"
   },
+  "peerDependencies": {
+    "angular": ">=1.1.5",
+    "d3": "3.3.11",
+    "nvd3": "v1.1.14-beta",
+    "moment": "2.4.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",
